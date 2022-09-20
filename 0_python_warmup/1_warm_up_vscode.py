@@ -5,7 +5,7 @@
 
 # Empty lines are also ignore, obviously.
 
-# Comments are perhaps the most important
+# Commentss are perhaps the most important
 # What do programmers write in these comments?
 # Imagine yourself opening this file in 2 years. What would you
 # like to know in the most concise way possible?
