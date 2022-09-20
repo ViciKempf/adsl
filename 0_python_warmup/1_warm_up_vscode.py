@@ -10,6 +10,7 @@
 # Imagine yourself opening this file in 2 years. What would you
 # like to know in the most concise way possible?
 
+a = 1
 # In this file, comments contain the instructions for the exercises
 # as well as useful hints.
 
